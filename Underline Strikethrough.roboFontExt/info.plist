@@ -14,7 +14,7 @@
 		</dict>
 	</array>
 	<key>developer</key>
-	<string>Ben Kiel</string>
+	<string>Ben Kiel, Ryan Bugden</string>
 	<key>developerURL</key>
 	<string>http://www.typefounding.com</string>
 	<key>html</key>
@@ -26,9 +26,9 @@
 	<key>name</key>
 	<string>Underline Strikethrough</string>
 	<key>timeStamp</key>
-	<real>1687806871</real>
+	<real>1688077927</real>
 	<key>version</key>
-	<string>1.6</string>
+	<string>2.1</string>
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 	  <key>repositoryURL</key>
